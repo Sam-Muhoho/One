@@ -1,0 +1,21 @@
+h2 {
+    text-align: center;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    text-align: center;
+    color: darkcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flexbox;
+}
+
+ol {
+    color: chocolate;
+}
